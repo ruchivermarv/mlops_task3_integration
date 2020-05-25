@@ -14,7 +14,7 @@
 
 6.      Job3 : Train your model and predict accuracy or metrics.
 
-7.      Job4 : if metrics accuracy is less than 80%  , then tweak the machine learning model architecture.
+7.      Job4 : if metrics accuracy is less than 70%  , then tweak the machine learning model architecture.
 
 8.      Job5: Retrain the model or notify that the best model is being created
 
